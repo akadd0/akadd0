@@ -1,4 +1,4 @@
-## 𝚜𝚢𝚜𝟶𝚍𝚍:~# 𝙸𝚗𝚒𝚝𝚒𝚊𝚕𝚒𝚣𝚒𝚗𝚐...ㅤㅤ𝙾𝙺!
+## akd@sys:~$ cat akadd0/README.md
 :books: Cursando Segurança da Informação, pela UNIFG. <br>
 :minidisc: Estudante de Hacking, Python e algumas outras coisas. <br>
 -Linkedin aqui:ㅤㅤ  https://www.linkedin.com/in/akadd0/ <br>
