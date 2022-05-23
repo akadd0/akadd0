@@ -1,8 +1,8 @@
 ## akd@sys:~$ cat akadd0/README.md
 :books: Cursando Segurança da Informação, pela UNIFG. <br>
 :minidisc: Estudante de Hacking, Python e algumas outras coisas. <br>
--Linkedin aqui:ㅤㅤ  https://www.linkedin.com/in/akadd0/ <br>
--TryHackMe aqui:ㅤhttps://tryhackme.com/p/akadd0 <br>
+➪ Linkedin aqui:ㅤㅤ  https://www.linkedin.com/in/akadd0/ <br>
+➪ TryHackMe aqui:ㅤhttps://tryhackme.com/p/akadd0 <br>
 
 ### Sistemas & Distribuições
 <div>
